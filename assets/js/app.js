@@ -44,21 +44,21 @@ btnNo.addEventListener('click', ()=>{
                 break;
         
             case 2:
-                btnNo.innerText = 'Apoco si :( ?';
+                btnNo.innerText = 'Nada ya, chau';
                 btnSi.classList.add('estilo-3');
                 randomPic.src = '/assets/fotos/4.jpg'
 
                 break;
 
             case 3:
-                btnNo.innerText = 'Ni modo...';
+                btnNo.innerText = 'Encima sigues nooo';
                 btnSi.classList.add('estilo-4');
                 randomPic.src = '/assets/fotos/5.jpg'
 
                 break;
 
             case 4:
-                btnNo.innerText = 'Ya nada, chau ';
+                btnNo.innerText = 'Error 404 xD';
                 btnSi.innerText = 'Ci, Casemonos';
                 btnSi.classList.add('estilo-5');
                 randomPic.src = '/assets/fotos/6.jpg'
