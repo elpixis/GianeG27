@@ -3,11 +3,11 @@
     margin: 0;
     box-sizing: border-box;
     user-select: none;
-    background-color: #75FAD9;
+    background-color: #FA75DF;
 }
 
 body{
-    #background: url('/assets/fotos/fondo-corazones.png');
+    background: url('/assets/fotos/fondo-corazones.png');
     background-position: center;
     min-height: 100vh;
     display: flex;
