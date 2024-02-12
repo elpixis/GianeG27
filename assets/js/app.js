@@ -8,7 +8,7 @@ const musica = new Audio('/assets/musica/Manu Chao - Me gustas tu.mp3');
 // Si acepta: 
 btnSi.addEventListener('click', ()=>{
     randomPic.src = '/assets/fotos/0.jpg';
-    question.innerText = 'Bsitooo Uwu!!!!! :3 ';
+    question.innerText = 'Sabia que dirias que si :3 Bsitooo Uwu!!!!! ';
     question.classList.add('question-style');
 
 
