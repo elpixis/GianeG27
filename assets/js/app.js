@@ -36,7 +36,7 @@ btnNo.addEventListener('click', ()=>{
                 break;
             
             case 1:
-                btnNo.innerText = 'Segurísima? >:c';
+                btnNo.innerText = 'Te pago ):';
                 btnSi.classList.add('estilo-2');
                 randomPic.src = '/assets/fotos/3.jpg'
                 break;
@@ -56,7 +56,7 @@ btnNo.addEventListener('click', ()=>{
                 break;
 
             case 4:
-                btnNo.innerText = 'Duren... ';
+                btnNo.innerText = 'Ya nada, chau ';
                 btnSi.classList.add('estilo-5');
                 randomPic.src = '/assets/fotos/6.jpg'
 
