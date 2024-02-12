@@ -8,7 +8,7 @@ const musica = new Audio('/assets/musica/Manu Chao - Me gustas tu.mp3');
 // Si acepta: 
 btnSi.addEventListener('click', ()=>{
     randomPic.src = '/assets/fotos/0.jpg';
-    question.innerText = ' Uwu!!!!! :3 ';
+    question.innerText = 'Bsitooo Uwu!!!!! :3 ';
     question.classList.add('question-style');
 
 
@@ -30,13 +30,13 @@ btnNo.addEventListener('click', ()=>{
         switch (contador) {
             
             case 0:
-                btnNo.innerText = 'Segura?';
+                btnNo.innerText = 'Segura? :3';
                 btnSi.classList.add('estilo-1');
                 randomPic.src = '/assets/fotos/2.jpg'
                 break;
             
             case 1:
-                btnNo.innerText = 'Segurísima?';
+                btnNo.innerText = 'Segurísima? >:c';
                 btnSi.classList.add('estilo-2');
                 randomPic.src = '/assets/fotos/3.jpg'
                 break;
