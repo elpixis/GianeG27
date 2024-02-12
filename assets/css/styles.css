@@ -3,7 +3,6 @@
     margin: 0;
     box-sizing: border-box;
     user-select: none;
-    background-color: #FA75DF;
 }
 
 body{
@@ -13,6 +12,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #FA75DF;
 }
 
 .valentine-app{
